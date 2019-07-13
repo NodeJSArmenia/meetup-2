@@ -3,12 +3,12 @@ Slides, source codes and videos from meetup 2 (2019)
 
 <table border="0">
   <tr>
-    <td width="30%">
+    <td>
       <a href="" style="color: white">
-        <img src="https://github.com/NodeJSArmenia/meetup-2/blob/master/speaker_avatars/Gagik.jpg" width="150"/>
+        <img src="https://github.com/NodeJSArmenia/meetup-2/blob/master/speaker_avatars/Gagik.jpeg" width="150"/>
       </a>
     </td>
-    <td width="70%">
+    <td>
       <p><strong>Gagik Arustamyan</strong></p>
       <p><strong>Topic: </strong>Understanding Node.js performance</p>
       <p><strong>Github:</strong> <a href="https://github.com/arrustamyan" target="_blank">@arrustamyan</a></p>
@@ -16,24 +16,25 @@ Slides, source codes and videos from meetup 2 (2019)
     </td>
   </tr>
     <tr>
-    <td width="30%">
+    <td>
       <a href="" style="color: white">
         <img src="https://github.com/NodeJSArmenia/meetup-2/blob/master/speaker_avatars/Anahit.jpg" width="150"/>
       </a>
     </td>
-    <td width="70%">
+    <td>
       <p><strong>Anahit Vardanian</strong></p>
       <p><strong>Topic: </strong>Async Microservices with Apache Kafka and Node.js</p>
+      <p><strong>Github:</strong> <a href="https://github.com/anahit42" target="_blank">@anahit42</a></p>
       <p>How to handle background processes in Node.js using message queues: use cases, why and when to choose message queues over RESTful APIs, benefits of using Apache Kafka.</p>
     </td>
   </tr>
     <tr>
-    <td width="30%">
+    <td>
       <a href="" style="color: white">
         <img src="https://github.com/NodeJSArmenia/meetup-2/blob/master/speaker_avatars/Ujjwal.jpg" width="150"/>
       </a>
     </td>
-    <td width="70%">
+    <td>
       <p><strong>Ujjwal Sharma</strong></p>
       <p><strong>Topic: </strong><a href="https://www.icloud.com/keynote/0cPCV6UpL1Ug-4VAzDmPK3ctg#2019-SPb-HolyJS"">To ESM is human: The journeyman's guide to Modules in Node.js</a></p>
       <p><strong>Twitter:</strong> <a href="https://twitter.com/ryzokuken" target="_blank">@ryzokuken</a></p>
