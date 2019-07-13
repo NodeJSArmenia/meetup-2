@@ -37,7 +37,7 @@ Slides, source codes and videos from meetup 2 (2019)
       <p><strong>Topic: </strong>To ESM is human: The journeyman's guide to Modules in Node.js</p>
       <p><strong>Twitter:</strong> <a href="https://twitter.com/ryzokuken" target="_blank">@ryzokuken</a></p>
       <p><strong>Github:</strong> <a href="https://github.com/ryzokuken" target="_blank">@ryzokuken</a></p>
-      <p><strong>Slide:</strong> <a href="https://www.icloud.com/keynote/0cPCV6UpL1Ug-4VAzDmPK3ctg#2019-SPb-HolyJS" target="_blank"></p>
+      <p><a href="https://www.icloud.com/keynote/0cPCV6UpL1Ug-4VAzDmPK3ctg#2019-SPb-HolyJS" target="_blank"><strong>Slide</strong></a></p>
       <p>There's only one thing more complicated than ES Modules on browsers – ES Modules in Node.js. But how did we get here? How do modules even work? What are the merits and demerits around these conflicting module systems and why does everyone get so emotional while talking about them?</p>
     </td>
   </tr>
