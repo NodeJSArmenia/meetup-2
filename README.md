@@ -5,7 +5,7 @@ Slides, source codes and videos from meetup 2 (2019)
   <tr>
     <td>
       <a href="" style="color: white">
-        <img src="" width="150"/>
+        <img src="https://github.com/NodeJSArmenia/meetup-2/blob/master/speaker_avatars/Gagik.jpg" width="150"/>
       </a>
     </td>
     <td>
