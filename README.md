@@ -16,7 +16,7 @@ Slides, source codes and videos from meetup 2 (2019)
     </td>
   </tr>
     <tr>
-    <td>
+    <td width="20%">
       <a href="" style="color: white">
         <img src="https://github.com/NodeJSArmenia/meetup-2/blob/master/speaker_avatars/Anahit.jpeg" width="150"/>
       </a>
