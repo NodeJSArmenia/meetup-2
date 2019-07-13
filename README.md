@@ -11,6 +11,7 @@ Slides, source codes and videos from meetup 2 (2019)
     <td width="70%">
       <p><strong>Gagik Arustamyan</strong></p>
       <p><strong>Topic: </strong>Understanding Node.js performance</p>
+      <p><strong>Github:</strong> <a href="https://github.com/arrustamyan" target="_blank">@arrustamyan</a></p>
       <p>Writing performant Node.js applications is not about applying tips and tricks from blog posts. Let's explore what makes Node slow and how to find and fix the performance issues yourself.</p>
     </td>
   </tr>
