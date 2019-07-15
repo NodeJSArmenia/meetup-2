@@ -23,7 +23,8 @@ Slides, source codes and videos from meetup 2 (2019)
     </td>
     <td>
       <p><strong>Anahit Vardanian</strong></p>
-      <p><strong>Topic: </strong>Async Microservices with Apache Kafka and Node.js</p>
+      <p><strong>Topic: </strong><a href="https://www.slideshare.net/anahitv/async-microservices-with-apache-kafka-and-nodejs-155634663" target="_blank">Async Microservices with Apache Kafka and Node.js</a></p>
+      <p><strong>Code: </strong><a href="https://github.com/anahit42/nodejs-meetup" target="_blank">Apache Kafka usage in Node.js</a></p>
       <p><strong>Github:</strong> <a href="https://github.com/anahit42" target="_blank">@anahit42</a></p>
       <p>How to handle background processes in Node.js using message queues: use cases, why and when to choose message queues over RESTful APIs, benefits of using Apache Kafka.</p>
     </td>
