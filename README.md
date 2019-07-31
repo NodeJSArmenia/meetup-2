@@ -46,5 +46,6 @@ Slides, source codes and videos from meetup 2 (2019)
 </table>
 
 
-## Videos and Photos: coming soon
+## [Videos here: https://www.youtube.com/playlist?list=PL6FAVjeZSsP07Z-HXhKgtAXYkeHviDdxN](https://www.youtube.com/playlist?list=PL6FAVjeZSsP07Z-HXhKgtAXYkeHviDdxN)
+
 
