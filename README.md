@@ -1,4 +1,4 @@
-# #nodejsarm meetup 2
+# [#nodejsarm meetup 2](https://www.youtube.com/playlist?list=PL6FAVjeZSsP07Z-HXhKgtAXYkeHviDdxN)
 Slides, source codes and videos from meetup 2 (2019)
 
 <table border="0">
@@ -46,6 +46,6 @@ Slides, source codes and videos from meetup 2 (2019)
 </table>
 
 
-## [Videos here: https://www.youtube.com/playlist?list=PL6FAVjeZSsP07Z-HXhKgtAXYkeHviDdxN](https://www.youtube.com/playlist?list=PL6FAVjeZSsP07Z-HXhKgtAXYkeHviDdxN)
+## [Videos here](https://www.youtube.com/playlist?list=PL6FAVjeZSsP07Z-HXhKgtAXYkeHviDdxN)
 
 
